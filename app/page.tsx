@@ -32,7 +32,7 @@ const features = [
   {
     icon: '◎',
     title: 'Revenue Tracker',
-    body: 'See total contracted value, cash received, and what's still owed — broken down by brand and platform. Built-in payment schedule.',
+    body: "See total contracted value, cash received, and what's still owed — broken down by brand and platform. Built-in payment schedule.",
   },
   {
     icon: '◉',
