@@ -53,7 +53,7 @@ const testimonials = [
     handle: '@jordankfit · 180k TikTok',
   },
   {
-    quote: 'Finally know what I'm owed vs. what I've been paid. The revenue dashboard changed how I invoice.',
+    quote: "Finally know what I'm owed vs. what I've been paid. The revenue dashboard changed how I invoice.",
     name: 'Sofia R.',
     handle: '@sofiatravels · 95k YouTube',
   },
